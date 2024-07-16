@@ -22,7 +22,7 @@ const Navbar = () => {
   <div className="mx-auto max-w-screen-md px-4 sm:px-6 lg:px-8 ">
     <div className="flex h-16 items-center justify-between text-center">
        
-        <Link href='/' className=" flex flex-row gap-x-2 cursor-pointer">
+        <Link href='/' title='download video youtube' className=" flex flex-row gap-x-2 cursor-pointer">
 
 <Image
 alt="logo"

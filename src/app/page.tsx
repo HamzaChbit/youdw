@@ -7,7 +7,7 @@ import Hero from "@/components/Hero";
 export default function Home() {
   return (
   <div className="bg-back mx-auto max-w-screen-xl">
-        {/* <Hero/> */}
+        <Hero/>
         <About/>
         <Banner/>
         <Faq/>

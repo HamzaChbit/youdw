@@ -26,7 +26,7 @@ export default function LocalSwitcher() {
         disabled={isPending}
       >
         <option value='en' className='text-black'>en</option>
-        <option value='fr'  className='text-black'>fr</option>
+      
       </select>
     </div>
   );

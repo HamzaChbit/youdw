@@ -13,7 +13,7 @@ const PrivacyPolicy = () => {
       </p>
       
       <p className="mt-4">
-        Any capitalized terms used herein without definition shall have the meaning given to them in the End User License Agreement: <a href="https://youdw.vercel.app" className="text-blue-500 underline">Terms of Service</a>.
+        Any capitalized terms used herein without definition shall have the meaning given to them in the End User License Agreement: <a href="https://youdw.vercel.app"   title="download video youtube" className="text-blue-500 underline">Terms of Service</a>.
       </p>
       
       {/* Add more sections of your Privacy Policy as needed */}
