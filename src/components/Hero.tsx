@@ -84,7 +84,7 @@ const Hero = () => {
 
     return (
         <div className=' mt-10' id="hero">
-            <div className=" h-[80vh] max-w-screen-md px-4 py-8 sm:px-6 sm:py-12 lg:px-8 lg:py-16 mx-auto">
+            <div className="  max-w-screen-md px-4 py-8 sm:px-6 sm:py-12 lg:px-8 lg:py-16 mx-auto">
             <div className="flex flex-row justify-between">
                 <button onClick={handleAddDataClick}  className={`${addDataVisible ? ' border-b-2 border-title text-2xl font-medium ' : 'px-4 py-2 text-2xl font-light '}`} >Youtube To Mp4</button>
                 <button 
